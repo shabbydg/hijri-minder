@@ -1,0 +1,13 @@
+# This is a placeholder for notification_reminder.mp3
+# Replace this file with actual reminder notification audio content
+# Requirements:
+# - MP3 format
+# - Duration: 5-10 seconds recommended
+# - Quality: 128kbps or higher
+# - Licensed content only
+# 
+# For iOS, also create notification_reminder.aiff in ios/Runner/
+# Requirements for iOS:
+# - AIFF or CAF format
+# - Duration: <= 30 seconds
+# - Add to Xcode project as Copy Bundle Resource

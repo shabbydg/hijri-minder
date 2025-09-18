@@ -1,0 +1,1243 @@
+{
+  "@@locale": "en",
+  "appTitle": "HijriMinder",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "calendar": "Calendar",
+  "@calendar": {
+    "description": "Calendar tab label"
+  },
+  
+  "prayerTimes": "Prayer Times",
+  "@prayerTimes": {
+    "description": "Prayer Times tab label"
+  },
+  
+  "reminders": "Reminders",
+  "@reminders": {
+    "description": "Reminders tab label"
+  },
+  
+  "events": "Events",
+  "@events": {
+    "description": "Events tab label"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab label"
+  },
+  
+  "today": "Today",
+  "@today": {
+    "description": "Today label"
+  },
+  
+  "hijriDate": "Hijri Date",
+  "@hijriDate": {
+    "description": "Hijri Date label"
+  },
+  
+  "gregorianDate": "Gregorian Date",
+  "@gregorianDate": {
+    "description": "Gregorian Date label"
+  },
+  
+  "monthMoharram": "Moharram",
+  "@monthMoharram": {
+    "description": "First month of Hijri calendar"
+  },
+  
+  "monthSafar": "Safar",
+  "@monthSafar": {
+    "description": "Second month of Hijri calendar"
+  },
+  
+  "monthRabiAlAwwal": "Rabi' al-Awwal",
+  "@monthRabiAlAwwal": {
+    "description": "Third month of Hijri calendar"
+  },
+  
+  "monthRabiAlThani": "Rabi' al-Thani",
+  "@monthRabiAlThani": {
+    "description": "Fourth month of Hijri calendar"
+  },
+  
+  "monthJumadaAlAwwal": "Jumada al-Awwal",
+  "@monthJumadaAlAwwal": {
+    "description": "Fifth month of Hijri calendar"
+  },
+  
+  "monthJumadaAlThani": "Jumada al-Thani",
+  "@monthJumadaAlThani": {
+    "description": "Sixth month of Hijri calendar"
+  },
+  
+  "monthRajab": "Rajab",
+  "@monthRajab": {
+    "description": "Seventh month of Hijri calendar"
+  },
+  
+  "monthShaban": "Sha'ban",
+  "@monthShaban": {
+    "description": "Eighth month of Hijri calendar"
+  },
+  
+  "monthRamadan": "Ramadan",
+  "@monthRamadan": {
+    "description": "Ninth month of Hijri calendar"
+  },
+  
+  "monthShawwal": "Shawwal",
+  "@monthShawwal": {
+    "description": "Tenth month of Hijri calendar"
+  },
+  
+  "monthDhulQadah": "Dhul-Qa'dah",
+  "@monthDhulQadah": {
+    "description": "Eleventh month of Hijri calendar"
+  },
+  
+  "monthDhulHijjah": "Dhul-Hijjah",
+  "@monthDhulHijjah": {
+    "description": "Twelfth month of Hijri calendar"
+  },
+  
+  "sihori": "Sihori",
+  "@sihori": {
+    "description": "Sihori prayer time"
+  },
+  
+  "fajr": "Fajr",
+  "@fajr": {
+    "description": "Fajr prayer time"
+  },
+  
+  "sunrise": "Sunrise",
+  "@sunrise": {
+    "description": "Sunrise time"
+  },
+  
+  "zawaal": "Zawaal",
+  "@zawaal": {
+    "description": "Zawaal time"
+  },
+  
+  "zohrEnd": "Zohr End",
+  "@zohrEnd": {
+    "description": "Zohr End prayer time"
+  },
+  
+  "asrEnd": "Asr End",
+  "@asrEnd": {
+    "description": "Asr End prayer time"
+  },
+  
+  "maghrib": "Maghrib",
+  "@maghrib": {
+    "description": "Maghrib prayer time"
+  },
+  
+  "maghribEnd": "Maghrib End",
+  "@maghribEnd": {
+    "description": "Maghrib End prayer time"
+  },
+  
+  "nisfulLayl": "Nisful Layl",
+  "@nisfulLayl": {
+    "description": "Nisful Layl prayer time"
+  },
+  
+  "nisfulLaylEnd": "Nisful Layl End",
+  "@nisfulLaylEnd": {
+    "description": "Nisful Layl End prayer time"
+  },
+  
+  "nextPrayer": "Next Prayer",
+  "@nextPrayer": {
+    "description": "Next prayer label"
+  },
+  
+  "timeRemaining": "Time Remaining",
+  "@timeRemaining": {
+    "description": "Time remaining label"
+  },
+  
+  "addReminder": "Add Reminder",
+  "@addReminder": {
+    "description": "Add reminder button"
+  },
+  
+  "add": "Add",
+  "@add": {
+    "description": "Add button"
+  },
+  
+  "reminderTitle": "Reminder Title",
+  "@reminderTitle": {
+    "description": "Reminder title field label"
+  },
+  
+  "reminderDescription": "Description",
+  "@reminderDescription": {
+    "description": "Reminder description field label"
+  },
+  
+  "reminderType": "Reminder Type",
+  "@reminderType": {
+    "description": "Reminder type field label"
+  },
+  
+  "birthday": "Birthday",
+  "@birthday": {
+    "description": "Birthday reminder type"
+  },
+  
+  "anniversary": "Anniversary",
+  "@anniversary": {
+    "description": "Anniversary reminder type"
+  },
+  
+  "deathAnniversary": "Death Anniversary",
+  "@deathAnniversary": {
+    "description": "Death anniversary reminder type"
+  },
+  
+  "selectDate": "Select Date",
+  "@selectDate": {
+    "description": "Select date button"
+  },
+  
+  "save": "Save",
+  "@save": {
+    "description": "Save button"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+  
+  "edit": "Edit",
+  "@edit": {
+    "description": "Edit button"
+  },
+  
+  "islamicEvents": "Islamic Events",
+  "@islamicEvents": {
+    "description": "Islamic events title"
+  },
+  
+  "searchEvents": "Search Events",
+  "@searchEvents": {
+    "description": "Search events placeholder"
+  },
+  
+  "noEventsFound": "No events found",
+  "@noEventsFound": {
+    "description": "No events found message"
+  },
+  
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+  
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications setting label"
+  },
+  
+  "prayerNotifications": "Prayer Notifications",
+  "@prayerNotifications": {
+    "description": "Prayer notifications setting"
+  },
+  
+  "adhanSounds": "Adhan Sounds",
+  "@adhanSounds": {
+    "description": "Adhan sounds setting"
+  },
+  
+  "locationServices": "Location Services",
+  "@locationServices": {
+    "description": "Location services setting"
+  },
+  
+  "showGregorianDates": "Show Gregorian Dates",
+  "@showGregorianDates": {
+    "description": "Show Gregorian dates setting"
+  },
+  
+  "showEventDots": "Show Event Dots",
+  "@showEventDots": {
+    "description": "Show event dots setting"
+  },
+  
+  "prayerTimeFormat": "Prayer Time Format",
+  "@prayerTimeFormat": {
+    "description": "Prayer time format setting"
+  },
+  
+  "format12Hour": "12 Hour",
+  "@format12Hour": {
+    "description": "12 hour format option"
+  },
+  
+  "format24Hour": "24 Hour",
+  "@format24Hour": {
+    "description": "24 hour format option"
+  },
+  
+  "notificationAdvance": "Notification Advance",
+  "@notificationAdvance": {
+    "description": "Notification advance setting"
+  },
+  
+  "minutes": "minutes",
+  "@minutes": {
+    "description": "Minutes unit"
+  },
+  
+  "hours": "hours",
+  "@hours": {
+    "description": "Hours unit"
+  },
+  
+  "days": "days",
+  "@days": {
+    "description": "Days unit"
+  },
+  
+  "locationPermissionRequired": "Location permission is required for accurate prayer times",
+  "@locationPermissionRequired": {
+    "description": "Location permission required message"
+  },
+  
+  "enableLocation": "Enable Location",
+  "@enableLocation": {
+    "description": "Enable location button"
+  },
+  
+  "useDefaultLocation": "Use Default Location",
+  "@useDefaultLocation": {
+    "description": "Use default location button"
+  },
+  
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading message"
+  },
+  
+  "error": "Error",
+  "@error": {
+    "description": "Error message"
+  },
+  
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+  
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button"
+  },
+  
+  "yes": "Yes",
+  "@yes": {
+    "description": "Yes button"
+  },
+  
+  "no": "No",
+  "@no": {
+    "description": "No button"
+  },
+  
+  "share": "Share",
+  "@share": {
+    "description": "Share button"
+  },
+  
+  "copy": "Copy",
+  "@copy": {
+    "description": "Copy button"
+  },
+  
+  "copied": "Copied to clipboard",
+  "@copied": {
+    "description": "Copied to clipboard message"
+  },
+  
+  "islamicGreeting": "Assalamu Alaikum",
+  "@islamicGreeting": {
+    "description": "Islamic greeting"
+  },
+  
+  "islamicGreetingResponse": "Wa Alaikum Assalam",
+  "@islamicGreetingResponse": {
+    "description": "Islamic greeting response"
+  },
+  
+  "barakAllahu": "Barak Allahu feeki/feek",
+  "@barakAllahu": {
+    "description": "Islamic blessing"
+  },
+  
+  "jazakAllahu": "Jazak Allahu Khairan",
+  "@jazakAllahu": {
+    "description": "Islamic thank you"
+  },
+  
+  "inshallah": "Insha'Allah",
+  "@inshallah": {
+    "description": "God willing"
+  },
+  
+  "mashallah": "Masha'Allah",
+  "@mashallah": {
+    "description": "What Allah has willed"
+  },
+  
+  "subhanallah": "Subhan'Allah",
+  "@subhanallah": {
+    "description": "Glory be to Allah"
+  },
+  
+  "alhamdulillah": "Alhamdulillah",
+  "@alhamdulillah": {
+    "description": "Praise be to Allah"
+  },
+  
+  "allahuAkbar": "Allahu Akbar",
+  "@allahuAkbar": {
+    "description": "Allah is the Greatest"
+  },
+
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button"
+  },
+
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account button"
+  },
+
+  "alreadyHaveAccount": "Already have an account? ",
+  "@alreadyHaveAccount": {
+    "description": "Already have account text"
+  },
+
+  "dontHaveAccount": "Don't have an account? ",
+  "@dontHaveAccount": {
+    "description": "Don't have account text"
+  },
+
+  "enterEmail": "Enter your email",
+  "@enterEmail": {
+    "description": "Email field hint"
+  },
+
+  "enterPassword": "Enter your password",
+  "@enterPassword": {
+    "description": "Password field hint"
+  },
+
+  "createStrongPassword": "Create a strong password",
+  "@createStrongPassword": {
+    "description": "Create password field hint"
+  },
+
+  "confirmYourPassword": "Confirm your password",
+  "@confirmYourPassword": {
+    "description": "Confirm password field hint"
+  },
+
+  "pleaseEnterEmail": "Please enter your email",
+  "@pleaseEnterEmail": {
+    "description": "Email validation message"
+  },
+
+  "pleaseEnterValidEmail": "Please enter a valid email address",
+  "@pleaseEnterValidEmail": {
+    "description": "Valid email validation message"
+  },
+
+  "pleaseEnterPassword": "Please enter your password",
+  "@pleaseEnterPassword": {
+    "description": "Password validation message"
+  },
+
+  "passwordMinLength": "Password must be at least 6 characters",
+  "@passwordMinLength": {
+    "description": "Password minimum length validation"
+  },
+
+  "passwordRequirements": "Password must contain at least one letter and one number",
+  "@passwordRequirements": {
+    "description": "Password requirements validation"
+  },
+
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Password mismatch validation"
+  },
+
+  "pleaseConfirmPassword": "Please confirm your password",
+  "@pleaseConfirmPassword": {
+    "description": "Confirm password validation"
+  },
+
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password title"
+  },
+
+  "resetYourPassword": "Reset Your Password",
+  "@resetYourPassword": {
+    "description": "Reset password heading"
+  },
+
+  "resetPasswordInstructions": "Enter your email address and we'll send you a link to reset your password.",
+  "@resetPasswordInstructions": {
+    "description": "Reset password instructions"
+  },
+
+  "sendResetEmail": "Send Reset Email",
+  "@sendResetEmail": {
+    "description": "Send reset email button"
+  },
+
+  "backToSignIn": "Back to Sign In",
+  "@backToSignIn": {
+    "description": "Back to sign in button"
+  },
+
+  "checkYourEmail": "Check Your Email",
+  "@checkYourEmail": {
+    "description": "Check email heading"
+  },
+
+  "passwordResetSent": "We've sent a password reset link to:",
+  "@passwordResetSent": {
+    "description": "Password reset email sent message"
+  },
+
+  "checkEmailInstructions": "Please check your email and follow the instructions to reset your password. If you don't see the email, check your spam folder.",
+  "@checkEmailInstructions": {
+    "description": "Check email instructions"
+  },
+
+  "didntReceiveEmail": "Didn't receive the email? Try again",
+  "@didntReceiveEmail": {
+    "description": "Didn't receive email link"
+  },
+
+  "createYourAccount": "Create Your Account",
+  "@createYourAccount": {
+    "description": "Create account heading"
+  },
+
+  "joinHijriMinder": "Join HijriMinder to track your Islamic calendar and prayer times",
+  "@joinHijriMinder": {
+    "description": "Join HijriMinder description"
+  },
+
+  "agreeToTerms": "I agree to the ",
+  "@agreeToTerms": {
+    "description": "Agree to terms text"
+  },
+
+  "termsOfService": "Terms of Service",
+  "@termsOfService": {
+    "description": "Terms of service link"
+  },
+
+  "and": " and ",
+  "@and": {
+    "description": "And connector"
+  },
+
+  "privacyPolicy": "Privacy Policy",
+  "@privacyPolicy": {
+    "description": "Privacy policy link"
+  },
+
+  "acceptTermsRequired": "Please accept the terms of service and privacy policy",
+  "@acceptTermsRequired": {
+    "description": "Accept terms validation"
+  },
+
+  "accountCreatedSuccessfully": "Account created successfully! Please check your email for verification.",
+  "@accountCreatedSuccessfully": {
+    "description": "Account created success message"
+  },
+
+  "signInToContinue": "Sign in to continue",
+  "@signInToContinue": {
+    "description": "Sign in to continue text"
+  },
+
+  "unexpectedError": "An unexpected error occurred. Please try again.",
+  "@unexpectedError": {
+    "description": "Unexpected error message"
+  },
+
+  "authenticationError": "Authentication Error",
+  "@authenticationError": {
+    "description": "Authentication error title"
+  },
+
+  "authenticationErrorMessage": "There was an error initializing the authentication system. Please try again.",
+  "@authenticationErrorMessage": {
+    "description": "Authentication error message"
+  },
+
+  "continueToLogin": "Continue to Login",
+  "@continueToLogin": {
+    "description": "Continue to login button"
+  },
+
+  "yourIslamicCalendarCompanion": "Your Islamic Calendar Companion",
+  "@yourIslamicCalendarCompanion": {
+    "description": "App subtitle"
+  },
+
+  "initializing": "Initializing...",
+  "@initializing": {
+    "description": "Initializing message"
+  },
+
+  "continueWithGoogle": "Continue with Google",
+  "@continueWithGoogle": {
+    "description": "Google sign-in button text"
+  },
+
+  "continueWithApple": "Continue with Apple",
+  "@continueWithApple": {
+    "description": "Apple sign-in button text"
+  },
+
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "description": "Google sign-in button text for login"
+  },
+
+  "signInWithApple": "Sign in with Apple",
+  "@signInWithApple": {
+    "description": "Apple sign-in button text for login"
+  },
+
+  "or": "OR",
+  "@or": {
+    "description": "Divider text between social sign-in and email/password form"
+  },
+
+  "googleSignInCancelled": "Google sign-in was cancelled",
+  "@googleSignInCancelled": {
+    "description": "Google sign-in cancelled error message"
+  },
+
+  "appleSignInCancelled": "Apple sign-in was cancelled",
+  "@appleSignInCancelled": {
+    "description": "Apple sign-in cancelled error message"
+  },
+
+  "socialSignInFailed": "Social sign-in failed. Please try again.",
+  "@socialSignInFailed": {
+    "description": "General social sign-in failure message"
+  },
+
+  "accountAlreadyLinked": "This account is already linked to another sign-in method",
+  "@accountAlreadyLinked": {
+    "description": "Account already linked error message"
+  },
+
+  "googleSignInNotAvailable": "Google Sign-In is not available on this platform",
+  "@googleSignInNotAvailable": {
+    "description": "Google Sign-In not available message"
+  },
+
+  "appleSignInNotAvailable": "Apple Sign-In is not available on this platform",
+  "@appleSignInNotAvailable": {
+    "description": "Apple Sign-In not available message"
+  },
+
+  "selectCalendarTypes": "Select Calendar Types",
+  "@selectCalendarTypes": {
+    "description": "Calendar type selection title"
+  },
+
+  "hijriCalendar": "Hijri Calendar",
+  "@hijriCalendar": {
+    "description": "Hijri calendar option"
+  },
+
+  "gregorianCalendar": "Gregorian Calendar",
+  "@gregorianCalendar": {
+    "description": "Gregorian calendar option"
+  },
+
+  "bothCalendars": "Both Calendars",
+  "@bothCalendars": {
+    "description": "Both calendars option"
+  },
+
+  "advanceNotifications": "Advance Notifications",
+  "@advanceNotifications": {
+    "description": "Advance notifications title"
+  },
+
+  "addNotification": "Add Notification",
+  "@addNotification": {
+    "description": "Add notification button"
+  },
+
+  "customTime": "Custom Time",
+  "@customTime": {
+    "description": "Custom time option"
+  },
+
+  "removeNotification": "Remove Notification",
+  "@removeNotification": {
+    "description": "Remove notification action"
+  },
+
+  "premiumFeature": "Premium Feature",
+  "@premiumFeature": {
+    "description": "Premium feature label"
+  },
+
+  "upgradeToPremium": "Upgrade to Premium",
+  "@upgradeToPremium": {
+    "description": "Upgrade to premium button"
+  },
+
+  "hijriRemindersRequirePremium": "Hijri reminders require premium subscription",
+  "@hijriRemindersRequirePremium": {
+    "description": "Hijri reminders premium requirement message"
+  },
+
+  "pleaseSelectCalendarType": "Please select at least one calendar type",
+  "@pleaseSelectCalendarType": {
+    "description": "Calendar type selection validation"
+  },
+
+  "pleaseSelectNotificationTime": "Please select at least one notification time",
+  "@pleaseSelectNotificationTime": {
+    "description": "Notification time selection validation"
+  },
+
+  "chooseWhenToBeNotified": "Choose when to be notified",
+  "@chooseWhenToBeNotified": {
+    "description": "Notification time selection guidance"
+  },
+
+  "selectCalendarTypesForReminder": "Select calendar types for this reminder",
+  "@selectCalendarTypesForReminder": {
+    "description": "Calendar type selection guidance"
+  },
+
+  "quickOptions": "Quick Options",
+  "@quickOptions": {
+    "description": "Quick notification options label"
+  },
+
+  "selectedNotifications": "Selected Notifications",
+  "@selectedNotifications": {
+    "description": "Selected notifications label"
+  },
+
+  "addCustomTime": "Add Custom Time",
+  "@addCustomTime": {
+    "description": "Add custom time button"
+  },
+
+  "total": "Total",
+  "@total": {
+    "description": "Total time label"
+  },
+
+  "week": "week",
+  "@week": {
+    "description": "Week unit"
+  },
+
+  "weeks": "weeks",
+  "@weeks": {
+    "description": "Weeks unit"
+  },
+
+  "minute": "minute",
+  "@minute": {
+    "description": "Minute unit"
+  },
+
+  "hour": "hour",
+  "@hour": {
+    "description": "Hour unit"
+  },
+
+  "day": "day",
+  "@day": {
+    "description": "Day unit"
+  },
+
+  "premium": "Premium",
+  "@premium": {
+    "description": "Premium label"
+  },
+
+  "standardCalendar": "Standard calendar",
+  "@standardCalendar": {
+    "description": "Gregorian calendar description"
+  },
+
+  "islamicCalendar": "Islamic calendar",
+  "@islamicCalendar": {
+    "description": "Hijri calendar description"
+  },
+
+  "reminderPreferences": "Reminder Preferences",
+  "@reminderPreferences": {
+    "description": "Reminder preferences title"
+  },
+
+  "defaultCalendarTypes": "Default Calendar Types",
+  "@defaultCalendarTypes": {
+    "description": "Default calendar types setting"
+  },
+
+  "defaultAdvanceNotifications": "Default Advance Notifications",
+  "@defaultAdvanceNotifications": {
+    "description": "Default advance notifications setting"
+  },
+
+  "primaryCalendar": "Primary Calendar",
+  "@primaryCalendar": {
+    "description": "Primary calendar setting"
+  },
+
+  "notificationSettings": "Notification Settings",
+  "@notificationSettings": {
+    "description": "Notification settings label"
+  },
+
+  "recurringReminderPreferences": "Recurring Reminder Preferences",
+  "@recurringReminderPreferences": {
+    "description": "Recurring reminder preferences label"
+  },
+
+  "messageTemplatePreferences": "Message Template Preferences",
+  "@messageTemplatePreferences": {
+    "description": "Message template preferences label"
+  },
+
+  "savePreferences": "Save Preferences",
+  "@savePreferences": {
+    "description": "Save preferences button"
+  },
+
+  "resetToDefaults": "Reset to Defaults",
+  "@resetToDefaults": {
+    "description": "Reset to defaults button"
+  },
+
+  "preferencesSaved": "Preferences saved successfully",
+  "@preferencesSaved": {
+    "description": "Preferences saved success message"
+  },
+
+  "preferencesReset": "Preferences reset to defaults",
+  "@preferencesReset": {
+    "description": "Preferences reset success message"
+  },
+
+  "syncWithCloud": "Sync with Cloud",
+  "@syncWithCloud": {
+    "description": "Sync with cloud button"
+  },
+
+  "cloudSyncEnabled": "Cloud sync enabled",
+  "@cloudSyncEnabled": {
+    "description": "Cloud sync enabled message"
+  },
+
+  "cloudSyncDisabled": "Cloud sync disabled",
+  "@cloudSyncDisabled": {
+    "description": "Cloud sync disabled message"
+  },
+
+  "syncInProgress": "Syncing...",
+  "@syncInProgress": {
+    "description": "Sync in progress message"
+  },
+
+  "syncComplete": "Sync complete",
+  "@syncComplete": {
+    "description": "Sync complete message"
+  },
+
+  "syncFailed": "Sync failed",
+  "@syncFailed": {
+    "description": "Sync failed message"
+  },
+
+  "dateSelection": "Date Selection",
+  "@dateSelection": {
+    "description": "Date selection section header"
+  },
+
+  "nightSensitive": "Night Sensitive",
+  "@nightSensitive": {
+    "description": "Night sensitivity toggle title"
+  },
+
+  "nightSensitiveHelp": "Add +1 day to Hijri date for events after sunset",
+  "@nightSensitiveHelp": {
+    "description": "Night sensitivity toggle subtitle/help text"
+  },
+
+  "recipientName": "Recipient Name",
+  "@recipientName": {
+    "description": "Recipient name field label"
+  },
+
+  "relationship": "Relationship",
+  "@relationship": {
+    "description": "Relationship field label"
+  },
+
+  "recurringReminder": "Recurring Reminder",
+  "@recurringReminder": {
+    "description": "Recurring reminder toggle title"
+  },
+
+  "repeatEveryYear": "Repeat every year",
+  "@repeatEveryYear": {
+    "description": "Recurring reminder toggle subtitle"
+  },
+
+  "selectHijriDate": "Select Hijri Date",
+  "@selectHijriDate": {
+    "description": "Hijri date picker dialog title"
+  },
+
+  "yearAH": "Year (AH)",
+  "@yearAH": {
+    "description": "Year field label for Hijri date picker"
+  },
+
+  "month": "Month",
+  "@month": {
+    "description": "Month field label"
+  },
+
+  "day": "Day",
+  "@day": {
+    "description": "Day field label"
+  },
+
+  "select": "Select",
+  "@select": {
+    "description": "Select button"
+  },
+
+  "titleRequired": "Title is required",
+  "@titleRequired": {
+    "description": "Title field validation message"
+  },
+
+  "islamicTheme": "Islamic Theme",
+  "@islamicTheme": {
+    "description": "Islamic theme label"
+  },
+
+  "mandalaPattern": "Mandala Pattern",
+  "@mandalaPattern": {
+    "description": "Mandala pattern decorative element"
+  },
+
+  "geometricBorder": "Geometric Border",
+  "@geometricBorder": {
+    "description": "Geometric border decorative element"
+  },
+
+  "islamicDecoration": "Islamic Decoration",
+  "@islamicDecoration": {
+    "description": "Islamic decoration element"
+  },
+
+  "decorativeCorner": "Decorative Corner",
+  "@decorativeCorner": {
+    "description": "Decorative corner element"
+  },
+
+  "starPattern": "Star Pattern",
+  "@starPattern": {
+    "description": "Star pattern decorative element"
+  },
+
+  "crescentPattern": "Crescent Pattern",
+  "@crescentPattern": {
+    "description": "Crescent pattern decorative element"
+  },
+
+  "islamicColors": "Islamic Colors",
+  "@islamicColors": {
+    "description": "Islamic color scheme label"
+  },
+
+  "purpleTheme": "Purple Theme",
+  "@purpleTheme": {
+    "description": "Purple color theme option"
+  },
+
+  "creamAccent": "Cream Accent",
+  "@creamAccent": {
+    "description": "Cream accent color"
+  },
+
+  "goldAccent": "Gold Accent",
+  "@goldAccent": {
+    "description": "Gold accent color"
+  },
+
+  "islamicDesign": "Islamic Design",
+  "@islamicDesign": {
+    "description": "Islamic design system label"
+  },
+
+  "culturalAesthetic": "Cultural Aesthetic",
+  "@culturalAesthetic": {
+    "description": "Cultural aesthetic design approach"
+  },
+
+  "traditionalPatterns": "Traditional Patterns",
+  "@traditionalPatterns": {
+    "description": "Traditional Islamic patterns"
+  },
+
+  "sacredGeometry": "Sacred Geometry",
+  "@sacredGeometry": {
+    "description": "Sacred geometry design elements"
+  },
+
+  "islamicArt": "Islamic Art",
+  "@islamicArt": {
+    "description": "Islamic art design elements"
+  },
+
+  "spiritualDesign": "Spiritual Design",
+  "@spiritualDesign": {
+    "description": "Spiritual design approach"
+  },
+
+  "blessedTheme": "Blessed Theme",
+  "@blessedTheme": {
+    "description": "Blessed theme variant"
+  },
+
+  "divineColors": "Divine Colors",
+  "@divineColors": {
+    "description": "Divine color palette"
+  },
+
+  "sacredPurple": "Sacred Purple",
+  "@sacredPurple": {
+    "description": "Sacred purple color"
+  },
+
+  "holyGold": "Holy Gold",
+  "@holyGold": {
+    "description": "Holy gold color"
+  },
+
+  "blessedCream": "Blessed Cream",
+  "@blessedCream": {
+    "description": "Blessed cream color"
+  },
+
+  "hijriCalendar": "Hijri Calendar",
+  "@hijriCalendar": {
+    "description": "Hijri Calendar title"
+  },
+
+  "reminders": "Reminders",
+  "@reminders": {
+    "description": "Reminders title"
+  },
+
+  "prayerTimes": "Prayer Times",
+  "@prayerTimes": {
+    "description": "Prayer Times title"
+  },
+
+  "unableToLoadPrayerTimes": "Unable to load prayer times",
+  "@unableToLoadPrayerTimes": {
+    "description": "Error message when prayer times fail to load"
+  },
+
+  "noEventsOnThisDate": "No events on this date",
+  "@noEventsOnThisDate": {
+    "description": "Message when no events exist for selected date"
+  },
+
+  "events": "Events",
+  "@events": {
+    "description": "Events label"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button"
+  },
+
+  "addReminder": "Add Reminder",
+  "@addReminder": {
+    "description": "Add Reminder button"
+  },
+
+  "goToToday": "Go to Today",
+  "@goToToday": {
+    "description": "Go to Today tooltip"
+  },
+
+  "previousMonth": "Previous Month",
+  "@previousMonth": {
+    "description": "Previous Month tooltip"
+  },
+
+  "nextMonth": "Next Month",
+  "@nextMonth": {
+    "description": "Next Month tooltip"
+  },
+
+  "refresh": "Refresh",
+  "@refresh": {
+    "description": "Refresh tooltip"
+  },
+
+  "loadingReminders": "Loading reminders...",
+  "@loadingReminders": {
+    "description": "Loading reminders message"
+  },
+
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button"
+  },
+
+  "noRemindersYet": "No reminders yet",
+  "@noRemindersYet": {
+    "description": "Empty reminders state title"
+  },
+
+  "tapToCreateFirstReminder": "Tap the + button to create your first reminder",
+  "@tapToCreateFirstReminder": {
+    "description": "Empty reminders state subtitle"
+  },
+
+  "createReminder": "Create Reminder",
+  "@createReminder": {
+    "description": "Create Reminder button"
+  },
+
+  "reminderCreatedSuccessfully": "Reminder created successfully",
+  "@reminderCreatedSuccessfully": {
+    "description": "Reminder created success message"
+  },
+
+  "reminderDeletedSuccessfully": "Reminder deleted successfully",
+  "@reminderDeletedSuccessfully": {
+    "description": "Reminder deleted success message"
+  },
+
+  "failedToDeleteReminder": "Failed to delete reminder",
+  "@failedToDeleteReminder": {
+    "description": "Reminder deletion failure message"
+  },
+
+  "failedToUpdateReminder": "Failed to update reminder",
+  "@failedToUpdateReminder": {
+    "description": "Reminder update failure message"
+  },
+
+  "nextOccurrence": "Next Occurrence",
+  "@nextOccurrence": {
+    "description": "Next Occurrence label"
+  },
+
+  "year": "year",
+  "@year": {
+    "description": "Year unit (singular)"
+  },
+
+  "years": "years",
+  "@years": {
+    "description": "Year unit (plural)"
+  },
+
+  "enable": "Enable",
+  "@enable": {
+    "description": "Enable action"
+  },
+
+  "disable": "Disable",
+  "@disable": {
+    "description": "Disable action"
+  },
+
+  "deleteReminderTitle": "Delete Reminder",
+  "@deleteReminderTitle": {
+    "description": "Delete reminder dialog title"
+  },
+
+  "deleteReminderConfirmation": "Are you sure you want to delete \"{title}\"?",
+  "@deleteReminderConfirmation": {
+    "description": "Delete reminder confirmation message",
+    "placeholders": {
+      "title": {
+        "type": "String",
+        "description": "The title of the reminder to be deleted"
+      }
+    }
+  }
+}

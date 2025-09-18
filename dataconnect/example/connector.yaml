@@ -1,0 +1,1216 @@
+connectorId: example
+generate:
+  javascriptSdk:
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/phpMyAdmin/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/phpMyAdmin
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/jobsuite/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/jobsuite
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/erp-svelte/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/erp-svelte
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/kinance/kinance/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/kinance/kinance
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/video-js-master/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/video-js-master
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/pdf_viewer/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/pdf_viewer
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/jquery_validate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/jquery_validate
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/browser-tools-mcp/browser-tools-server/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/browser-tools-mcp/browser-tools-server
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/browser-tools-mcp/browser-tools-mcp/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/browser-tools-mcp/browser-tools-mcp
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/lightbox/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/lightbox
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/workshop-inventory/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/workshop-inventory
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/wh-parts-mgt/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/wh-parts-mgt
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/stocks/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/stocks
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/distributors/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/distributors
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/erp-svelte/outlook-mcp/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/erp-svelte/outlook-mcp
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/lightbox/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/lightbox
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/metisMenu/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/metisMenu
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/holderjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/holderjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/flot/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/flot
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/bootstrap/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/bower_components/bootstrap
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentytwentyone/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentytwentyone
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentytwenty/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentytwenty
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentynineteen/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/twentynineteen
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/peakshops/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/themes/peakshops
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/yith-woocommerce-wishlist/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/yith-woocommerce-wishlist
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/tool-inventory/tool-inventory-management/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/tool-inventory/tool-inventory-management
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/startbootstrap-sb-admin-2-gh-pages/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/startbootstrap-sb-admin-2-gh-pages
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/package/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/package
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/jquery-locationpicker-plugin-master/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/jquery-locationpicker-plugin-master
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/jobsuite/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/jobsuite/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-vue/full-version/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-vue/full-version
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-vue/documentation/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-vue/documentation
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-vue/boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-vue/boilerplate
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-typescript-vue/full-version/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-typescript-vue/full-version
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-typescript-vue/documentation/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-typescript-vue/documentation
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-svelte/hexadash/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-svelte/hexadash
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-svelte/documentation/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-svelte/documentation
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-react-tailwind/hexadash-tailwind/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-react-tailwind/hexadash-tailwind
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-react-tailwind/documentation/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-react-tailwind/documentation
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-react/hexadash-react/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-react/hexadash-react
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-react/documentation/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-react/documentation
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-react/boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-react/boilerplate
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-nodejs/full-version/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-nodejs/full-version
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-nodejs/boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-nodejs/boilerplate
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-nextjs/hexadash-nextjs-doc/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-nextjs/hexadash-nextjs-doc
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-nextjs/hexadash-nextjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-nextjs/hexadash-nextjs
+      react: true
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-laravel/full-version/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-laravel/full-version
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-laravel/boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-laravel/boilerplate
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-html/hexadash/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-html/hexadash
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-angular/hexadash-angular-boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-angular/hexadash-angular-boilerplate
+      react: false
+      angular: true
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/hexadash-angular/hexadash-angular/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/hexadash-angular/hexadash-angular
+      react: false
+      angular: true
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/Hexadash-tailwind-css/Hexadash-Tailwind-Boilerplate/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/Hexadash-tailwind-css/Hexadash-Tailwind-Boilerplate
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin
+        -ignore/Hexadash-tailwind-css/Hexadash-Tailwind/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/Hexadash
+        Svelte Admin -ignore/Hexadash-tailwind-css/Hexadash-Tailwind
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/special-dispatch/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/special-dispatch/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/special-dispatch/js/jquery-confirm-v3.3.4/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/special-dispatch/js/jquery-confirm-v3.3.4
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/dispatch/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/dispatch/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/dispatch/js/jquery-confirm-v3.3.4/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/dispatch/js/jquery-confirm-v3.3.4
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/delivery/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/delivery/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/delivery/js/jquery-confirm-v3.3.4/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/delivery/js/jquery-confirm-v3.3.4
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/dispatch/backup/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/dispatch/backup
+      react: false
+      angular: true
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/lightbox/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/lightbox
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/metisMenu/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/metisMenu
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/holderjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/holderjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/flot/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/flot
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/bootstrap/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/admin/bower_components/bootstrap
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/video-js-master/test/qunit/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/video-js-master/test/qunit
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/pdf_viewer/external/shelljs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/pdf_viewer/external/shelljs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/namaz-attendance/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/namaz-attendance/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/event-attendance/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/event-attendance/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/tinymce/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/tinymce
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/startbootstrap-sb-admin-2-master/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/startbootstrap-sb-admin-2-master
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/metisMenu/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/metisMenu
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/holderjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/holderjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/flot/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/flot
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/bootstrap/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/template/bower_components/bootstrap
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/dispatch/v1/fmb-app/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/fmb/admin/dispatch/v1/fmb-app
+      react: false
+      angular: true
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Microsoft
+        Edge/Default/Extensions/fchjpkplmbeeeaaogdbhjbgbknjobohb/2022.5.24_0/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Microsoft
+        Edge/Default/Extensions/fchjpkplmbeeeaaogdbhjbgbknjobohb/2022.5.24_0
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/workshop-inventory/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/workshop-inventory/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/wh-parts-mgt/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/wh-parts-mgt/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/stocks/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/stocks/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/reports/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/reports/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/distributors/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/distributors/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/dealers/wp-content/themes/twentytwentyone/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/dealers/wp-content/themes/twentytwentyone
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/dealers/wp-content/themes/twentytwenty/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/dealers/wp-content/themes/twentytwenty
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/metisMenu/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/metisMenu
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/holderjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/holderjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/flot/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/flot
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/bootstrap/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/bower_components/bootstrap
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/tinymce/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/tinymce
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat
+        2/majlis/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/tinymce/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/tinymce
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/ohbat/majlis/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/tinymce/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/tinymce
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/directory/its/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/peakshops-plugin/inc/one-click-demo-import/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/peakshops-plugin/inc/one-click-demo-import
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Google/Chrome/Default/Extensions/gcbommkclmclpchllfjekcdonpmejbdp/2022.5.24_0/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Google/Chrome/Default/Extensions/gcbommkclmclpchllfjekcdonpmejbdp/2022.5.24_0
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/startbootstrap-sb-admin-2-gh-pages/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/files/startbootstrap-sb-admin-2-gh-pages/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/metisMenu/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/metisMenu
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/holderjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/holderjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/flot/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/flot
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/bootstrap/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/template/bower_components/bootstrap
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/dispatch/v1/fmb-app/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/fmb/backup/admin/dispatch/v1/fmb-app
+      react: false
+      angular: true
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/tinymce/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/tinymce
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/morrisjs/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/morrisjs
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/ckeditor/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/miqaat/mehmaan/attendance/plugins/ckeditor
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/startbootstrap-sb-admin-2-master/vendor/fontawesome-free/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/colombojamaat.org2/attendance/control/startbootstrap-sb-admin-2-master/vendor/fontawesome-free
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Sites/localhost 2021-08-23
+        15.44.49/bestpaper/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/b01b2d2b/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/b01b2d2b
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/8fbd79df/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/8fbd79df
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/62b9bf0b/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/62b9bf0b
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/41754c8a/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/41754c8a
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/40eee0eb/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/40eee0eb
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/1694c12b/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/09ba82c22e56146561f41f048ec06a4a/74a08cf8613c7dec4db7b264470db812/1694c12b
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Adobe/Dreamweaver
+        2020/en_US/Configuration/Updates/Core/Node/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Adobe/Dreamweaver 2020/en_US/Configuration/Updates/Core/Node
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Adobe/Dreamweaver
+        2020/en_GB/Configuration/Updates/Core/Node/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Adobe/Dreamweaver 2020/en_GB/Configuration/Updates/Core/Node
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/tool-inventory/tool-inventory-management/vendor/facade/ignition/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/Webroot/mabdulally/tools/tool-inventory/tool-inventory-management/vendor/facade/ignition
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/test/data/vscode_linux/application/resources/app/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/test/data/vscode_linux/application/resources/app
+      react: false
+      angular: false
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/test/data/vscode/application/Resources/app/src/dataconnect-generated
+      package: "@dataconnect/generated"
+      packageJsonDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/test/data/vscode/application/Resources/app
+      react: false
+      angular: false
+  dartSdk:
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Samples/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Apps/FlutterPackages/droptxtOTP/checkotp/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_web_plugins/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/integration_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/fuchsia_remote_debug_protocol/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_localizations/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_goldens/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_driver/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/splash/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/platform_view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/platform_channel/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/platform_channel_swift/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/texture/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/layers/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/hello_world/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/image_list/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/flutter_view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tools/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/snippets/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/examples/api/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tracing_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/missing_dependency_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/packages_autoroller/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/forbidden_from_release_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/manual_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/devicelab/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/customer_testing/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/checks_tool/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/bots/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/a11y_assessments/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/automated_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_xlsio/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_treemap/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_sliders/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_signaturepad/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdf/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_officecore/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_maps/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_officechart/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_localizations/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_datepicker/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_gauges/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_datagrid/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_core/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_charts/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_barcodes/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_calendar/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/integration_test/integration_test_macos/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/integration_test/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter/test_private/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tools/vitool/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tools/gen_defaults/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tools/gen_keycodes/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/tools/android_driver_extensions/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/windows_startup_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/wide_gamut_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/web_compile_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/web_e2e_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/web/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/release_smoke_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/ui/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/spell_check/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/platform_interaction/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/new_gallery/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/keyboard_hot_restart/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/link_hook/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/ios_platform_view_tests/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/ios_app_with_extensions/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/hook_user_defines/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/flutter_gallery/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/flavors/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/deferred_components_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/external_textures/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/android_semantics_testing/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/channels/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/android_views/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/display_cutout_rotation/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/android_engine_test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/docs/renderers/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/docs/platform_integration/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/platform_views_layout/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/platform_views_layout_hybrid_composition/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/platform_channels_benchmarks/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/macrobenchmarks/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/microbenchmarks/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/imitation_game_flutter/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/complex_layout/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_xlsio/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_treemap/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_sliders/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_signaturepad/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer_web/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer_platform_interface/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer_macos/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdf/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_officecore/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_maps/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_officechart/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_localizations/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_datepicker/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_gauges/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_datagrid/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_core/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_charts/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_barcodes/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_calendar/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter/test_private/test/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/integration_tests/ios_add2app_life_cycle/flutterapp/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/test_apps/stocks/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/dev/benchmarks/multiple_flutters/module/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/bin/cache/pkg/sky_engine/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/bin/cache/pkg/flutter_gpu/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/web_sdk/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/flutter_frontend_server/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/ci/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer_web/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer_macos/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/Syncfusion/19.2.0.44/Flutter/Packages/flutter_pdfviewer/syncfusion_flutter_pdfviewer/example/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_test/test/test_config/project_root/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/packages/flutter_tools/test/widget_preview_scaffold.shard/widget_preview_scaffold/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/web_sdk/web_test_utils/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/web_sdk/web_engine_tester/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/mcp/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/licenses/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/header_guard_check/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/githooks/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/golden_tests_harvester/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/gen_web_locale_keymap/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/engine_tool/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/compare_goldens/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/clangd_check/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/const_finder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/clang_tidy/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/build_bucket_golden_scraper/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/api_check/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/android_lint/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/third_party/web_test_fonts/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/third_party/web_unicode/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/third_party/web_locale_keymap/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/symbols/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/skia_gold_client/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/smoke_test_failure/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/ios_scenario_app/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/benchmark/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/testing/dart/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/vmservice/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/lib/web_ui/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/lib/snapshot/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/lib/gpu/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/pkg/process_fakes/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/pkg/git_repo_tools/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/pkg/engine_repo_tools/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/pkg/engine_build_configs/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/tools/path_ops/dart/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/sky/packages/sky_engine/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/impeller/tessellator/dart/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/bin/cache/dart-sdk/lib/_internal/sdk_library_metadata/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/f7d0447c/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/f5cf1d7e/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/d0f805fa/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/b9e39515/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/b2d79e47/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/9c0fb72d/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/8af6aca8/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/89720fa1/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/82a5fdf3/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/70cdbad8/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/6bbc14e4/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/66c4c5bc/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/4dedafad/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/41a14356/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/33c04b4f/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/27ca0390/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/1e750ec8/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/13572261/hijri_minder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/kernel/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/dart_runner/vmservice/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/dart_runner/embedder/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/dart-pkg/zircon_ffi/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/dart-pkg/zircon/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/dart-pkg/fuchsia/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/runtime/dart/profiler_symbols/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/touch-input/touch-input-view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/touch-input/embedding-flutter-view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/text-input/text-input-view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/embedder/parent-view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/embedder/child-view/lib/dataconnect_generated
+      package: dataconnect_generated
+    - outputDir: ../../../../../../../Users/digitalarc/Development/SDK/flutter/engine/src/flutter/shell/platform/fuchsia/flutter/tests/integration/mouse-input/mouse-input-view/lib/dataconnect_generated
+      package: dataconnect_generated
+  kotlinSdk:
+    - outputDir: ../../../../../../../Users/digitalarc/Library/T9/SDKs/Android/sdk/cmdline-tools/latest/lib/analytics-library/protos/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/T9/SDKs/Android/sdk/extras/google/google_play_services/samples/unified/ActivityDemo/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/ff726ec7/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/d82a07d0/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/d7e8dd0f/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/ba5a8b37/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/5d3c1883/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/Kiro/User/globalStorage/kiro.kiroagent/00da17dcbf1fda0e9f19c2621acabcee/74a08cf8613c7dec4db7b264470db812/520c3e27/hijri_minder/android/app/src/main/kotlin
+      package: com.google.firebase.dataconnect.generated
+  swiftSdk:
+    - outputDir: ../../../../../../../Users/digitalarc/Library/Application
+        Support/WebEx Folder/MC_42.6.3.10/Meeting
+        Center.app/Contents/Frameworks/wbxaecodec.framework/Versions/A/FirebaseDataConnectGenerated
+      package: DataConnectGenerated
